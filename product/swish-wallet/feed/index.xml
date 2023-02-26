@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Swish Wallet	</title>
+	<atom:link href="https://mikee-pixel.github.io/ecommerce_wp_v4/product/swish-wallet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mikee-pixel.github.io/ecommerce_wp_v4/product/swish-wallet/</link>
+	<description></description>
+	<lastBuildDate>Sun, 15 Jan 2023 02:56:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: mnavidad		</title>
+		<link>https://mikee-pixel.github.io/ecommerce_wp_v4/product/swish-wallet/#comment-3</link>
+
+		<dc:creator><![CDATA[mnavidad]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 02:40:18 +0000</pubDate>
+		<guid isPermaLink="false">https://mikee-pixel.github.io/ecommerce_wp_v4/?post_type=product#038;p=114#comment-3</guid>
+
+					<description><![CDATA[Awesome product!]]></description>
+			<content:encoded><![CDATA[<p>Awesome product!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: mnavidad		</title>
+		<link>https://mikee-pixel.github.io/ecommerce_wp_v4/product/swish-wallet/#comment-2</link>
+
+		<dc:creator><![CDATA[mnavidad]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 02:39:39 +0000</pubDate>
+		<guid isPermaLink="false">https://mikee-pixel.github.io/ecommerce_wp_v4/?post_type=product#038;p=114#comment-2</guid>
+
+					<description><![CDATA[This product is in good quality.]]></description>
+			<content:encoded><![CDATA[<p>This product is in good quality.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

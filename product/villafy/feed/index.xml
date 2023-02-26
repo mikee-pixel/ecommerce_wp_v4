@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Villafy	</title>
+	<atom:link href="https://mikee-pixel.github.io/ecommerce_wp_v4/product/villafy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mikee-pixel.github.io/ecommerce_wp_v4/product/villafy/</link>
+	<description></description>
+	<lastBuildDate>Sun, 29 Jan 2023 15:17:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: mnavidad		</title>
+		<link>https://mikee-pixel.github.io/ecommerce_wp_v4/product/villafy/#comment-13</link>
+
+		<dc:creator><![CDATA[mnavidad]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2023 15:17:17 +0000</pubDate>
+		<guid isPermaLink="false">https://mikee-pixel.github.io/ecommerce_wp_v4/?post_type=product#038;p=155#comment-13</guid>
+
+					<description><![CDATA[Product review test.]]></description>
+			<content:encoded><![CDATA[<p>Product review test.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
